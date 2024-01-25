@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Nunito&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Grenze+Gotisch:wght@900&family=Jacques+Francois&family=Jacques+Francois+Shadow&family=Neonderthaw&family=Rye&display=swap");
 
 :root {
   --primaryColor: #fff;
@@ -16,7 +16,7 @@ html {
 body {
   margin: 0;
   background: #000;
-  font-family: Nunito, sans-serif;
+  font-family: Anton, sans-serif;
 }
 
 /* --- Navigation Menu ------------------------------ */
